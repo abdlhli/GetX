@@ -5,6 +5,11 @@ class Product {
   final String productDescription;
   final double price;
 
-  Product(this.id, this.productName, this.productImage, this.productDescription,
-      this.price);
+  Product(
+    this.id,
+    this.productName,
+    this.productImage,
+    this.productDescription,
+    this.price,
+  );
 }
