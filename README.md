@@ -1,6 +1,6 @@
-# getx
+# Flutter - GetX
 
-A new Flutter project.
+Tugas Minggu 9 - Workshop Mobile Application 
 
 ## Getting Started
 
